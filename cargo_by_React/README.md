@@ -1,0 +1,1 @@
+A project for a cargo tracking application built with React. It includes features for adding cargo, changing its status, filtering by status, as well as error handling and automatic cargo number generation.
